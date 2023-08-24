@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ariana!
-- 👀 I’m interested in cybersecurity and project management. 
+- 👀 I’m interested in cybersecurity and project management and anything with data. 
 - 🌱 I’m currently learning how to code in Python. 
 - 💞️ I’m looking to collaborate on any projects that I can put on my resume. 
 - 📫 How to reach me preferably on linked in! or email me @karianadaniel01@gmail.com
